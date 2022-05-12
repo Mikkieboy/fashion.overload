@@ -149,4 +149,11 @@ p{
 
 }
 
-   
+.cropped {
+  
+    height: 600px;
+    overflow: hidden;
+    margin-bottom: 200;
+}
+
+ 
